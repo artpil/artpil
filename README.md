@@ -21,8 +21,9 @@ I'm a frontend developer with over **15 years of experience**, specializing in *
 
 ## 🚀 Pet Projects
 
-> Currently private, but I can send an archive with layout and JavaScript examples upon request.  
-> Some projects will be published here soon.
+> Most of my work has been done within companies and teams (not open-sourced).  
+> However, I can send a sample archive of HTML/CSS/JS works if needed.  
+> Some side projects will be uploaded here soon!
 
 ## 📫 Contact
 
