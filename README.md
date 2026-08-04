@@ -1,32 +1,32 @@
-# Привет! Я Артём Пилосян 👋
+# Hi there, I'm Artem Pilosyan 👋
 
-Senior Frontend Developer с **15+ лет опыта** в разработке высоконагруженных веб-приложений, масштабируемых дизайн-систем и современных e-commerce платформ.
-
----
-
-### 🛠 Стек технологий и компетенции
-
-* **Современный Frontend:** Vue 3 (Composition API, Setup Syntax), TypeScript, Pinia (Setup Stores), Vue Router
-* **Сборка и тестирование:** Vite, Vitest, Jest
-* **Стили и UI-системы:** Tailwind CSS (v3/v4), Bootstrap, кастомная CSS-инженерия, Storybook
-* **Базовый стек и верстка:** 💻 HTML5, CSS3 (адаптивная, семантическая, кроссбраузерная верстка), ⚙️ JavaScript (Vanilla JS), jQuery
-* **Legacy и шаблонизация:** 🧩 Поддержка и рефакторинг legacy-кода, 🌐 Шаблоны Twig, HTML-верстка писем
-* **DevOps и инструменты:** 🛠 Git, GitHub, GitHub Actions (CI/CD), 🐧 Уверенная работа в Unix shell
-* **Визуализация данных:** Chart.js, SVG-интерфейсы аналитики
+Senior Frontend Developer with **15+ years of experience** building high-performance web applications, scalable design systems, and modern e-commerce platforms.
 
 ---
 
-### 🚀 Ключевые проекты
+### 🛠 Tech Stack & Expertise
 
-* **[ByteBuy.store](https://bytebuy.store/)** — Современная E-commerce платформа  
-  *Кастомная архитектура витрины интернет-магазина, построенная на Vue 3, Vite, Tailwind CSS и автоматизированных CI/CD пайплайнах через GitHub Actions.*
-
-* **Enterprise Дизайн-системы и Модернизация Legacy**  
-  *Проектирование модульных библиотек компонентов и перевод устаревших кодовых баз на современную архитектуру TypeScript / Vue 3.*
+* **Modern Frontend:** Vue 3 (Composition API, Setup Syntax), TypeScript, Pinia (Setup Stores), Vue Router
+* **Build Tools & Testing:** Vite, Vitest, Jest
+* **Styling & UI Systems:** Tailwind CSS (v3/v4), Bootstrap, Custom CSS Engineering, Storybook
+* **Core Web & Layout:** 💻 HTML5, CSS3 (Responsive, Semantic, Cross-browser layout), ⚙️ JavaScript (Vanilla JS), jQuery
+* **Legacy & Templating:** 🧩 Legacy code maintenance, 🌐 Twig templates, Email layout
+* **DevOps & Workflow:** 🛠 Git, GitHub, GitHub Actions (CI/CD), 🐧 Confident with Unix shell
+* **Data Visualization:** Chart.js, SVG Analytics Interfaces
 
 ---
 
-### 📫 Контакты
+### 🚀 Key Projects & Highlights
+
+* **[ByteBuy.store](https://bytebuy.store/)** — Modern E-commerce Platform  
+  *Fully custom storefront architecture built with Vue 3, Vite, Tailwind CSS, and automated CI/CD pipelines via GitHub Actions.*
+
+* **Enterprise Design Systems & Legacy Modernization**  
+  *Designing modular component libraries and refactoring legacy codebases into modern TypeScript/Vue 3 architectures.*
+
+---
+
+### 📫 Connect with Me
 
 * **GitHub:** [github.com/artpil](https://github.com/artpil)
-* **Специализация:** Vue 3 / TypeScript / Архитектура / Fintech / E-commerce
+* **Specialization:** Vue 3 / TypeScript / Architecture / Fintech / E-commerce
