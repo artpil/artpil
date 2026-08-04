@@ -26,15 +26,6 @@ Senior Frontend Developer with **15+ years of experience** building high-perform
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=artpil&show_icons=true&theme=nord" alt="Artem's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artpil&layout=compact&theme=nord" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 * **GitHub:** [github.com/artpil](https://github.com/artpil)
