@@ -18,7 +18,7 @@ Senior Frontend Developer with **15+ years of experience** building high-perform
 
 ### 🚀 Key Projects & Highlights
 
-* **[ByteBuy](https://github.com/artpil)** — Modern E-commerce Platform  
+* **[ByteBuy](https:/bytebuy.store)** — Modern E-commerce Platform  
   *Fully custom storefront architecture built with Vue 3, Vite, Tailwind CSS, and automated CI/CD pipelines via GitHub Actions.*
 
 * **Enterprise Design Systems & Legacy Modernization**  
