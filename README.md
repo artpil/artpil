@@ -1,35 +1,41 @@
-# Hi there! I'm Artyom Pilosyan 👋
+# Hi there, I'm Artem Pilosyan 👋
 
-I'm a frontend developer with over **15 years of experience**, specializing in **clean, stable, and maintainable code**. I've been working professionally since 2008 and always aim for simple and effective solutions without unnecessary complexity.
-
-## 💼 Tech Stack
-
-- 💻 HTML5, CSS3 (responsive, semantic, cross-browser layout)
-- ⚙️ JavaScript (Vanilla JS), jQuery
-- 🎨 Bootstrap
-- 🧩 Legacy code maintenance
-- 🌐 Twig templates, email layout
-- 🛠 Git, GitHub
-- 🐧 Confident with Unix shell
-
-## 🧠 What I Can Do
-
-- Work with complex UI and detailed layouts
-- Support and refactor old codebases without converting everything to trendy frameworks
-- Build stable frontends without bloated toolchains
-- Create clean, user-friendly interfaces for all devices
-
-## 🚀 Pet Projects
-
-> Most of my work has been done within companies and teams (not open-sourced).  
-> However, I can send a sample archive of HTML/CSS/JS works if needed.  
-> Some side projects will be uploaded here soon!
-
-## 📫 Contact
-
-- Telegram: [@artpil](https://t.me/artpil)
-- Email: [artyom.pilosyan@gmail.com](mailto:artyom.pilosyan@gmail.com)
+Senior Frontend Developer with **15+ years of experience** building high-performance web applications, scalable design systems, and modern e-commerce platforms.
 
 ---
 
-_I believe in simple and functional solutions. If you’re looking for a solid frontend without unnecessary frameworks — I’m your person._
+### 🛠 Tech Stack & Expertise
+
+* **Modern Frontend:** Vue 3 (Composition API, Setup Syntax), TypeScript, Pinia (Setup Stores), Vue Router
+* **Build Tools & Testing:** Vite, Vitest, Jest
+* **Styling & UI Systems:** Tailwind CSS (v3/v4), Bootstrap, Custom CSS Engineering, Storybook
+* **Core Web & Layout:** 💻 HTML5, CSS3 (Responsive, Semantic, Cross-browser layout), ⚙️ JavaScript (Vanilla JS), jQuery
+* **Legacy & Templating:** 🧩 Legacy code maintenance, 🌐 Twig templates, Email layout
+* **DevOps & Workflow:** 🛠 Git, GitHub, GitHub Actions (CI/CD), 🐧 Confident with Unix shell
+* **Data Visualization:** Chart.js, SVG Analytics Interfaces
+
+---
+
+### 🚀 Key Projects & Highlights
+
+* **[ByteBuy](https://github.com/artpil)** — Modern E-commerce Platform  
+  *Fully custom storefront architecture built with Vue 3, Vite, Tailwind CSS, and automated CI/CD pipelines via GitHub Actions.*
+
+* **Enterprise Design Systems & Legacy Modernization**  
+  *Designing modular component libraries and refactoring legacy codebases into modern TypeScript/Vue 3 architectures.*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=artpil&show_icons=true&theme=nord" alt="Artem's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artpil&layout=compact&theme=nord" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+* **GitHub:** [github.com/artpil](https://github.com/artpil)
+* **Specialization:** Vue 3 / TypeScript / Architecture / Fintech / E-commerce
